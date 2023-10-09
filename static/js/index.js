@@ -1,6 +1,6 @@
 const app = Vue.createApp({})
  app.component('component-a', {
-     template: `<p> Hola Sosua Mi Pueblo, Version 002!           
+     template: `<p>Version 003. Estamos implementando una aplicacion con Flask en el backend y Vue en e frontend con render.com!           
 </p>`,
 })
 app.mount('#app')  
